@@ -1,0 +1,7 @@
+Pedro: 50
+Maria: 30
+Jose: 60
+Carlos: 38
+
+Total de vendas: 178
+Maior venda: 60
